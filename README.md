@@ -1,9 +1,10 @@
-# asyncHTTPrequest
+# AsyncHTTPRequest
 
 Asynchronous HTTP for ESP8266 and ESP32. 
-Subset of HTTP.
+Subset of HTTP
 Built on ESPAsyncTCP (AsyncTCP for ESP32)
-Methods similar in format and use to XmlHTTPrequest in Javascript.
+Forked from https://github.com/boblemaire/asyncHTTPrequest
+
 
 Supports:
 * GET and POST

@@ -292,3 +292,5 @@ __pycache__/
 .vscode/launch.json
 .vscode/*.db
 .vscode/.browse.c_cpp.db*
+.pio
+.vscode
